@@ -1,10 +1,8 @@
 # Welcome to Brave Ones!
 
-## Demo
 ![Live Preview](./img/BRAVE_ONES_GIF.gif)
 
-  
-## Tech Stack Overview
+## Overview
 Brave Ones RPG is a turn-based battle game developed using Python and the Pygame library. The game features classic RPG mechanics such as:
 
 🎮 Turn-based combat system with attack and potion mechanics
