@@ -1,7 +1,7 @@
 # Welcome to Brave Ones!
 
 ## Demo
-![Live Preview](https://cdn.artstation.com/p/video_sources/001/943/692/brave-ones-demo-win.mp4)
+![Live Preview](./img/BRAVE_ONES_GIF.gif)
 
   
 ## Tech Stack Overview
